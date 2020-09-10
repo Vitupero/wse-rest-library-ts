@@ -35,6 +35,7 @@
   },
   "dependencies": {
     "digest-fetch": "^1.1.2",
-    "eventemitter3": "^4.0.7"
+    "eventemitter3": "^4.0.7",
+    "node-fetch": "^2.6.1"
   }
 }
